@@ -1,0 +1,7 @@
+return { // Значения по умолчанию, чтобы этот файл м.б. выложить в общий доступ на github
+    db_host: "localhost",
+    db_port: "3306",
+    db_name: "auth_service",
+    db_user: "root",
+    db_pass: "qwerty123"
+}
